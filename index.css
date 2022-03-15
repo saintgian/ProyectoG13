@@ -1,0 +1,22 @@
+.menu{
+    padding-top: 5rem;
+}
+ .navigation ul li a{
+    transition: all 0.4s linear;
+    border-radius: 5px;
+}
+
+.navigation ul li a:hover{
+    background-color: #4a4a4a;
+} 
+
+.footer {
+    background-color: #f2f2f2;
+    padding: 4rem 0;
+    text-align: center;
+    margin-top: 6rem;
+}
+
+.card-img-top {
+    height: 20vh !important;
+}
